@@ -9,8 +9,8 @@ For this assignment I want you to watch the following two videos and create your
 **Note:  I changed the code a little in my workflow to use an improved approach versus whats in the video I separated the jobs and used "needs" to require the test job to complete first**
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/4ca98932-6de9-4352-8ef7-54e0388b0d3c)
-![image](https://github.com/user-attachments/assets/86e64356-58f3-4291-9256-7b240866d428)
+![image](https://github.com/user-attachments/assets/5b046f39-7ad7-4d63-a1fe-bbc7a54264ab)
+
 
 
 
