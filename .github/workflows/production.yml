@@ -49,5 +49,5 @@ jobs:
           push: true
           tags: njitdl92/devops_demo:latest
 
-          # Add other relevant build parameters here
+          # Add other relevant build parameters here id needed
 
